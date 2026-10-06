@@ -88,7 +88,7 @@ The dashboard includes:
 
 # Dashboard Preview
 
-
+![Power BI Dashboard](power-bi-dashboard2.png)
 
 # DAX Measures
 
